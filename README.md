@@ -1,4 +1,4 @@
-#Trabalhos de Frontend
+# Trabalhos de Frontend
 >Amálgama de todos os projetos recentes que tenho desenvolvido
 
 Depois de um tempo parado tomei a liberdade de juntar todos os projetos em um repositório só e já usando ele de portifólio, mostrando todas as minhas capacidades. Esse é apenas o início, ainda tenho muito que melhorar e crescer. 
@@ -7,8 +7,7 @@ Depois de um tempo parado tomei a liberdade de juntar todos os projetos em um re
 
     Esse projeto foi feito com react e yarn, então para iniciar é fácil: 
 
-    ```shell
-    yarn 
+    ```    yarn 
     ```
     
     depois de clonar é só dar um:
