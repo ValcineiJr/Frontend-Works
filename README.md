@@ -16,7 +16,9 @@ Depois de um tempo parado tomei a liberdade de juntar todos os projetos em um re
    ```    
 
 ## Screenshots
-<img src="https://media.giphy.com/media/lTM4fAqiBNQabSqHwk/giphy.gif" width="200">
+
+## Gifs
+<img src="https://media.giphy.com/media/lTM4fAqiBNQabSqHwk/giphy.gif" width="400">
 
 ## Dependências
 
