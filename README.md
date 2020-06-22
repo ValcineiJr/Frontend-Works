@@ -16,6 +16,7 @@ Depois de um tempo parado tomei a liberdade de juntar todos os projetos em um re
    ```    
 
 ## Screenshots
+<img src="https://github.com/ValcineiJr/Frontend-Works/blob/master/src/images/home.png" width="400">
 
 ## Gifs
 <img src="https://media.giphy.com/media/lTM4fAqiBNQabSqHwk/giphy.gif" width="400">
