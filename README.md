@@ -4,13 +4,14 @@
 Depois de um tempo parado tomei a liberdade de juntar todos os projetos em um repositório só e já usando ele de portifólio, mostrando todas as minhas capacidades. Esse é apenas o início, ainda tenho muito que melhorar e crescer. 
 
 ## Instalação
-    Esse projeto foi feito com react e yarn, então para iniciar é fácil !
-    depois de clonar é só dar um
+
+    Esse projeto foi feito com react e yarn, então para iniciar é fácil: 
 
     ```shell
     yarn 
     ```
-    depois 
+    
+    depois de clonar é só dar um:
 
     ```shell
     yarn start
